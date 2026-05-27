@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: rohansujay21/sample-python-app:v1
+        image: rohansujay/sample-python-app:v1
 
         ports:
         - containerPort: 5000

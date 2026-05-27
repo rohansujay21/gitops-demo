@@ -22,4 +22,4 @@ spec:
         image: rohansujay21/sample-python-app:v1
 
         ports:
-        - containerPort: 80
+        - containerPort: 5000

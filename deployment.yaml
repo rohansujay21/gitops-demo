@@ -18,8 +18,8 @@ spec:
 
     spec:
       containers:
-      - name: nginx
-        image: nginx:latest
+      - name: demo
+        image: rohansujay21/sample-python-app:v1
 
         ports:
         - containerPort: 80
